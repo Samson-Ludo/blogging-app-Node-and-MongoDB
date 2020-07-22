@@ -1,0 +1,38 @@
+.create-btn {
+  margin-top: 15px;
+}
+
+#messages {
+  margin: 10px;
+}
+
+#messages ul {
+  margin: 0;
+  padding: 0;
+}
+
+#messages li {
+  list-style: none;
+  padding: 10px;
+}
+
+#messages .success {
+  background: green;
+  color: white;
+}
+
+#messages .error {
+  background: red;
+  color: white;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.showcase {
+  background: url("/img/home-bg.jpg") no-repeat 0 -150px;
+  min-height: 400px;
+  color: white;
+}
